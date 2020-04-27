@@ -4,7 +4,7 @@
 
 This resource includes data on numbers of licensed beds, staffed beds, ICU beds, and the bed utilization rate for the hospitals in the United States.
 
-If you are interested in subscribing to this product on AWS Data Exchange, please click [here](https://aws.amazon.com/marketplace/pp/prodview-yivxd2owkloha?ref_=srh_res_product_title).
+If you are interested in exploring this product on GitHub, please click [here](https://github.com/rearc-data/usa-hospital-beds).
 
 ### Data Sources
 
@@ -66,7 +66,7 @@ Please see the following for more details about each metric in the dataset:
 - Formats: GeoJSON, CSV
 
 ## Contact/Support Information
-- If you find any issues with or have enhancement ideas for this product, open up a GitHub [issue](https://github.com/rearc-data/usa-hospital-beds/issues) and we will gladly take a look at it. Better yet, submit a pull request. Any contributions you make are greatly appreciated :heart:.
+- If you find any issues with or have enhancement ideas for this product, open up a GitHub [issue](https://github.com/rearc-data/usa-hospital-beds/issues) and we will gladly take a look at it. Better yet, submit a pull request. Any contributions you make are greatly appreciated ♥.
 - If you are looking for specific open datasets currently not available on ADX, please submit a request on our project board [here](https://github.com/rearc-data/covid-datasets-aws-data-exchange/projects/1).
 - If you have questions about the source data, please visit https://www.definitivehc.com/ - or contact sales@definitivehc.com.
 - If you have any other questions or feedback, send us an email at data@rearc.io.
