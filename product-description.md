@@ -1,12 +1,15 @@
 # USA Hospital Beds - COVID-19 | Definitive Healthcare
 
-## Main Description
+The source code outlining how this product gathers, transforms, revises and publishes its datasets) is avaiable at [https://github.com/rearc-data/usa-hospital-beds](https://github.com/rearc-data/usa-hospital-beds).
 
+## Main Description
 This resource includes data on numbers of licensed beds, staffed beds, ICU beds, and the bed utilization rate for the hospitals in the United States.
 
-If you are interested in exploring this product on GitHub, please click [here](https://github.com/rearc-data/usa-hospital-beds).
+## Product Description
+This resource includes data on numbers of licensed beds, staffed beds, ICU beds, and the bed utilization rate for the hospitals in the United States.
 
 ### Data Sources
+This dataset is intended to be used as a baseline for understanding the typical bed capacity and average yearly bed utilization of hospitals reporting such information. The date of last update received from each hospital may be varied. While the dataset is not updated in real-time, this information is critical for understanding the impact of a high utilization event, like COVID-19.
 
 Please see the following for more details about each metric in the dataset:
 
@@ -59,14 +62,14 @@ Please see the following for more details about each metric in the dataset:
 #### Department of Defense (DoD) Hospital
 - Provides care for military service people (Army, Navy, Air Force, Marines, and Coast Guard), their dependents, and retirees (not all military service retirees are eligible for VA services)
 
-## More Information:
+## More Information
 - [Source | Definitive Healthcare: USA Hospital Beds](https://coronavirus-disasterresponse.hub.arcgis.com/datasets/definitivehc::definitive-healthcare-usa-hospital-beds)
 - [Definitive Healthcare | Homepage](https://www.definitivehc.com)
 - Frequency: Daily
 - Formats: GeoJSON, CSV
 
-## Contact/Support Information
-- If you find any issues with or have enhancement ideas for this product, open up a GitHub [issue](https://github.com/rearc-data/usa-hospital-beds/issues) and we will gladly take a look at it. Better yet, submit a pull request. Any contributions you make are greatly appreciated ♥.
+## Contact Details
+- If you find any issues with or have enhancement ideas for this product, open up a GitHub [issue](https://github.com/rearc-data/usa-hospital-beds/issues) and we will gladly take a look at it. Better yet, submit a pull request. Any contributions you make are greatly appreciated :heart:.
 - If you are looking for specific open datasets currently not available on ADX, please submit a request on our project board [here](https://github.com/rearc-data/covid-datasets-aws-data-exchange/projects/1).
 - If you have questions about the source data, please visit https://www.definitivehc.com/ - or contact sales@definitivehc.com.
 - If you have any other questions or feedback, send us an email at data@rearc.io.
