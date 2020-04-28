@@ -1,6 +1,6 @@
 # USA Hospital Beds - COVID-19 | Definitive Healthcare
 
-The source code outlining how this product gathers, transforms, revises and publishes its datasets) is avaiable at [https://github.com/rearc-data/usa-hospital-beds](https://github.com/rearc-data/usa-hospital-beds).
+The source code outlining how this product gathers, transforms, revises and publishes its datasets is avaiable at [https://github.com/rearc-data/usa-hospital-beds](https://github.com/rearc-data/usa-hospital-beds).
 
 ## Main Description
 This resource includes data on numbers of licensed beds, staffed beds, ICU beds, and the bed utilization rate for the hospitals in the United States.
