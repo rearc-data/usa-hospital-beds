@@ -6,11 +6,11 @@
 
 You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [https://aws.amazon.com/marketplace/pp/prodview-yivxd2owkloha](https://aws.amazon.com/marketplace/pp/prodview-yivxd2owkloha). 
 
-## Product Description
+## Main Overview
 
 This resource includes data on numbers of licensed beds, staffed beds, ICU beds, and the bed utilization rate for the hospitals in the United States.
 
-### Data Sources
+#### Data Sources
 
 This dataset is intended to be used as a baseline for understanding the typical bed capacity and average yearly bed utilization of hospitals reporting such information. The date of last update received from each hospital may be varied. While the dataset is not updated in real-time, this information is critical for understanding the impact of a high utilization event, like COVID-19.
 
@@ -30,7 +30,7 @@ Please see the following for more details about each metric in the dataset:
 
 *Hospital types are defined by the last four digits of the hospital’s Medicare Provider Number. If the hospital does not have a Medicare Provider Number, Definitive Healthcare determines the Hospital type by proprietary research.*
 
-### Hospital Types
+#### Hospital Types
 
 #### Short Term Acute Care Hospital (STAC)
 - Provides inpatient care and other services for surgery, acute medical conditions, or injuries
